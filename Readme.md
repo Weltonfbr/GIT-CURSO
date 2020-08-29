@@ -1,8 +1,14 @@
 # github
 
-#Aula de Git e Git Hub para auentar minhas skil
+# Aula de Git e Git Hub para auentar minhas skil
 
 Neste primeiro dia estou realizando um curso básico de Git e Git Hub básico.
+
+# URL compartilhavel
+
+[![paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P5AWZJPAZ7XXY&item_name=Ajude+o+Th%C3%A9l+a+encontrar+o+seu+caminho.+Quem+%C3%A9+o+Th%C3%A9l?+O+Th%C3%A9l+sou+eu.&currency_code=BRL&source=url)]
+
+# BTN Doação
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
